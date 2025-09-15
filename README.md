@@ -72,7 +72,7 @@ It uncovers patterns that influence **app engagement, installs, and success in t
 
 ## 📂 Project Links  
 
-💻 **GitHub Repository:** [Add Repo Link Here]  
+💻 **GitHub Repository:** https://github.com/RangaswamyCM/PlayStore-Analytics-PowerBI  
 📄 **Dataset Source:** Available in Repository  
 
 ---
